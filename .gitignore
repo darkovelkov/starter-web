@@ -1,1 +1,5 @@
 *.darko
+*_BASE_*
+*_BACKUP_*
+*_REMOTE_*
+*_LOCAL_*
