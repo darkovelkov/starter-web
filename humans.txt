@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+ading some txt that I need to see after the merge
     <name> -- <role> -- <twitter>
 
 # THANKS

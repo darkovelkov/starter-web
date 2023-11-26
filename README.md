@@ -7,3 +7,5 @@ Adding description in purpose section
 ## Deployment
 Adding description in the Deploymnet section
 ## How To Contribute
+
+## Copyright
